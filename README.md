@@ -8,6 +8,6 @@ Sample dataset with:
 CGPA
 IQ
 Placement (0 = Not Placed, 1 = Placed)
-
+ 
 🧠 Model Used:
 Logistic Regression (from sklearn.linear_model)
