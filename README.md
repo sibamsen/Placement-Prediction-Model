@@ -1,6 +1,6 @@
 # Placement-Prediction-Model
 
-Problem Statement:
+📌Problem Statement:
 Predict whether a student gets placed or not based on their IQ and CGPA using Logistic Regression.
 
 📊 Dataset:
